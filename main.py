@@ -6,7 +6,7 @@ from tqdm import tqdm
 from datetime import datetime
 
 # pip freeze > requirements.txt
-TOKEN_VK = 'vk1.a.0Qg7HQKsMIaEXRms886qrk8HfsVgqnnjEAjhwarSv32S4MoB4uA6u0Rh8Xv0sOHXjwxoZcGvFu_QS5m8J9u_1EFOsht73KU7B84y_K9-GeQhkL06LoPRCRVtWNPdClbBah3pgga1zJ4d1KzAZLgRs11JWel3upfvVWsrQ9GFVK3Zdxdz1ZskrSFFb95xl4pN-Y1tlcLqMcfkuU685U8vkg'
+TOKEN_VK = ''
 
 class VK_get_photos:
     def __init__(self, token, version='5.131'):
